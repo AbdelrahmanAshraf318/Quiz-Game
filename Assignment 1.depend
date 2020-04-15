@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570479586 source:d:\ramos\codes\assignment 1\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<iterator>
+	<string.h>
+	<cstring>
+	<stdio.h>
+
